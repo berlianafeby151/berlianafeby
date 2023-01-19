@@ -12,17 +12,17 @@ editor: visual
 
 ![](poltekapp.jpg)
 
-1.  Pendahuluan
+Pendahuluan
 
-    Latar belakang
+Latar belakang
 
 Di indonesia, proses perdagangan indonesia berperan sangat penting. Perdagangan internasional adalah cara yang dilakukan setiap negara untuk berkerjasama dalam bidang jasa atau barang. Dari tahun ke tahun ke tahun, perdagangan internasional semakin tumbuh dan berkembang sehingga hal ini menjadi bagian terpenting dari proses globalisasi.
 
 Perdagangan internasional terbagi menjadi dua jenis yaitu ekspor dan impor, ekspor adalah kegiatan mengeluarkan barang dari daerah pabean indonesia. sedangkan impor adalah kegiatan memasukan barang dari luar daerah pabean indonesia. Lewat prosedur serta tata metode yang telah diresmikan pemerintah. Ekspor merupakan bagian terpenting dari perdagangan internasional. Salah satu zona penyumbang ekspor terbanyak Indonesia, berasal dari zona pertanian subsector perkebunan sehingga Indonesia berusaha untuk terus meningkatkan ekspornya. Menurut Badan Pusat Statistik (BPS), nilai ekspor Indonesia pada bulan Januari hingga Oktober 2022 mencapai US\$ 244,14 miliar. Tercatat bahwa ekspor Indonesia terus mengalami peningkatan.
 
-Tiongkok adalah pemasok buah-buahan terbesar dengan volume 514,9 juta kg Komoditas Buah- buhan  ini juga memiliki nilai ekspor terbesar didunia oleh karena dengan mengembangkan buah tropis seperti durian, mangga dan pisang di dalam negeri. Komoditas buah tropis wajib dibesarkan di semua daerah indoesia segingga Indonesia mampu menjadi ekspor buah teropis tebanyak di dunia.
+Tiongkok adalah pemasok buah-buahan terbesar dengan volume 514,9 juta kg Komoditas Buah- buhan  ini juga memiliki nilai ekspor terbesar didunia oleh karena dengan mengembangkan buah tropis seperti durian, mangga dan pisang di dalam negeri. Komoditas buah tropis wajib dibesarkan di semua daerah indonesia. sehingga Indonesia mampu menjadi ekspor buah teropis tebanyak di dunia.
 
-1.2 Ruang lingkup
+Ruang lingkup
 
 Penelitian ini mengambil data nilai ekspor buah-buahan dari negara Indonesia ke negara Malaysia. Data diambil dari badan pusat statistik selama sepuluh tahun terakhir ( 2012-2021). Data ini kemudian dibandingkan dengan data nilai tukar rupiah
 
@@ -50,9 +50,9 @@ Ekspor
 
 Menurut Bea Cukai RI, ekspor adalah kegiatan mengeluarkan barang dari daerah pabean. Yang dimaksud barang ekspor adalah barang yang telah diajikan dan telah mendapatkan nomor pendaftaran.
 
-3.Metode penelitian
+Metode penelitian
 
-3.1 Data Nilai Ekspor Buah-buahan ke Negara Malaysia dan Nilai Tukar Rupiah
+Data Nilai Ekspor Buah-buahan ke Negara Malaysia dan Nilai Tukar Rupiah
 
 | tahun | Ekspor buah(ringgit) | rupiah              |
 |-------|----------------------|---------------------|
@@ -128,13 +128,12 @@ Kesimpulan
 
 Berdasarkan data hasil analisis kuantitatif yang telah dilakukan, setelah diamati ekspor Buah-buahan ke negara Malaysia Tidak berpengaruh terhadap nilai tukar rupiah dan buah-buahan merupakan salah satu komoditas utama yang memiliki volume ekspor terbesar di Indonesia. Oleh sebab itu apabila ekspor Buah-buahan ke negara Malaysia tidak berpengaruh positif terhadap nilai tukar rupiah.
 
-6 Referensi
+Referensi
 
 *Badan Pusat Statistik*. (n.d.). Retrieved January 19, 2023, from <https://www.bps.go.id/statictable/2019/02/18/2020/ekspor-buah-buahan-tahunan-menurut-negara-tujuan-utama-2012-2021.html>
 
 *Official Website Direktorat Jenderal Bea dan Cukai*. (n.d.). Retrieved January 19, 2023, from <https://www.beacukai.go.id/arsip/pab/ekspor.html>
 
 Industry.co.id. (2022, September 26). *Kesenjangan Ekspor dan Impor Industri Pengolahan Buah*. Industry.co.id. <https://www.industry.co.id/read/113192/kesenjangan-ekspor-dan-impor-industri-pengolahan-buah>
-
 
 Munandar, H. (1996). *Ekonomi internasional. Jilid 1. Edisi 5 / Dominick Salvatore; alih bahasa oleh Haris Munandar*. Penerbit Erlangga.
